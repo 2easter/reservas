@@ -1,0 +1,19 @@
+{
+  "name": "reservas-backend",
+  "version": "1.0.0",
+  "description": "gestor de reservas",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Cristobal 2Easter",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4",
+    "mongoose": "^5.5.8"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.0"
+  }
+}
